@@ -1,0 +1,44 @@
+body{
+    margin: 10px 100px 10px 100px;
+    
+}
+
+#um{
+    width: 100%;
+    float: left;
+    background-color: silver;
+    
+}
+
+#dois{
+    width: 100%;
+    float: right; 
+}
+
+#tres{
+    width: 100%;
+    float: left;
+    background-color: silver;
+}
+
+#um p {
+    float: left;
+}
+
+#dois p{
+    float:right;
+}
+
+#dois h1{
+    display: block;
+    text-align: right;
+
+}
+#tres p{
+    float: left;
+}
+
+p{
+    width: 600px;
+    font-size: 18px;
+}
